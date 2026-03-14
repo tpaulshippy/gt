@@ -13,13 +13,17 @@
       "agent": "refinery",
       "enabled": true,
       "interval": "5m",
-      "rigs": null
+      "rigs": [
+        "careerality"
+      ]
     },
     "witness": {
       "agent": "witness",
       "enabled": true,
       "interval": "5m",
-      "rigs": null
+      "rigs": [
+        "careerality"
+      ]
     }
   },
   "type": "daemon-patrol-config",
