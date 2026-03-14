@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "rigs": {}
+  "rigs": {
+    "careerality": {
+      "git_url": "git@github.com:tpaulshippy/careerality.git",
+      "added_at": "2026-03-13T18:20:23.45227-07:00",
+      "beads": {
+        "repo": "",
+        "prefix": "ca"
+      }
+    }
+  }
 }
